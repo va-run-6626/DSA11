@@ -7,4 +7,4 @@ Basic Hashing          --> D2(Prog17 - Prog18)
 Basic Sorting          --> D2(Prog19 - Prog25)
 
 Arrays
-    Easy               --> D2-D3(Prog26 - Prog42)
+    Easy               --> D2-D3(Prog26 - Prog41)
