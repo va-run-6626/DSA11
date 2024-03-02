@@ -8,3 +8,4 @@ Basic Sorting          --> D2(Prog19 - Prog25)
 
 Arrays
     Easy               --> D2-D3(Prog26 - Prog41)
+    Medium             --> D3-D4(Prog42 -
